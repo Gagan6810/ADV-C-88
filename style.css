@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(download.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:white;
+}
+
+
+#hd3{
+	display: inline-block;
+    color: blue;
+	background-color:greenyellow;
+	font-family: fantasy;
+	height: 50px;
+}
+
